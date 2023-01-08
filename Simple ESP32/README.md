@@ -40,3 +40,11 @@ To upload to the board you have to do the following Steps:
 
 You should now be able to use the ESP32-Marauder with the application on the Flipper.
 When using the Flipper as `USB-UART Bridge` you can also interact with the original CLI from the ESP32-Marauder.
+
+## The parts you will need:
+- 1x [Header](https://github.com/DereIBims/FlipperExtensions/edit/main/Simple%20ESP32/BOM.md#header)
+- 1x [RGB-LED](https://github.com/DereIBims/FlipperExtensions/edit/main/Simple%20ESP32/BOM.md#rgb-led)
+- 2x [10k Resistor](https://github.com/DereIBims/FlipperExtensions/edit/main/Simple%20ESP32/BOM.md#resistor) for R1 and R2
+- 1x [47Ohm Resistor](https://github.com/DereIBims/FlipperExtensions/edit/main/Simple%20ESP32/BOM.md#resistor-1) for R3
+- 2x [Button](https://github.com/DereIBims/FlipperExtensions/edit/main/Simple%20ESP32/BOM.md#buttons)
+- 1x [ESP-WROOVER-32D](https://github.com/DereIBims/FlipperExtensions/edit/main/Simple%20ESP32/BOM.md#esp-wroover-32d) or PIN-compatible other ESP32
