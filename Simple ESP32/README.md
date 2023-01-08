@@ -1,3 +1,5 @@
+![3D-Top](/assets/Simple_ESP32/3D_top.png) ![3D-Bottom](/assets/Simple_ESP32/3D_bottom.png)
+
 # Simple ESP32
 
 This is the most simple ESP32 board I could imagine.
@@ -6,6 +8,7 @@ It's as small as possible, though able to run [ESP32-Marauder](https://github.co
 Please take note that, although I tested everything posible (without the PCB), I could not test the PCB itself.
 Nor ist the setup of the Bootstrapping-Pins tested.
 
+The board has a size of 24x33mm.
 
 ## You will have to compile [ESP32-Marauder](https://github.com/justcallmekoko/ESP32Marauder) by yourself, since I changed some of the Pins due to an incompatibility.
 The original code uses Pin 6 for one of the LED colors.
